@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">InecTest</string>
+    <string name="BASE_URL">https://api.github.com/users/</string>
+
+    <string name="sem_conexao">Sem Conexão</string>
+    <string name="campo_obrigatorio">Campo Obrigatório</string>
+    <string name="usuario_nao_encontrado">Usuário não encontrado.</string>
+    <string name="repositorio_nao_encontrado">Repositório não encontrado.</string>
+    <string name="repositorio_vazio">Não há repositórios.</string>
+    <string name="falhou">Falhou</string>
+    <string name="verificar_conexao">Verifique sua conexão com a internet e tente novamente.</string>
+
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="html_url">URL</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="created_at">Created At</string>
+    <string name="updated_at">Updated At</string>
+    <string name="pushed_at">Pushed At</string>
+    <string name="list_repositories"><u>Repositories</u></string>
+
+
+</resources>
